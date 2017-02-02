@@ -12,7 +12,7 @@ Example x,y coordinates in a 3x3 2D map:</br>
 To navigate though a 2D map to need to add or subtract the from x and y position.  Below is an example of this showing how one would navigate to the adjacent squares or positions on a 2D array:</br>
 
 </br>[x-1][y-1] - [x-1][y] - [x-1][y+1]
-</br> [x][y-1]  -  [x][y]  -  [x][y+1]
+</br>&nbsp;[x][y-1]  &nbsp;-  &nbsp;[x][y]&nbsp; - &nbsp;[x][y+1]
 </br>[x+1][y-1] - [x+1][y] - [x+1][y+1]
 <br> *sorry if it doesn't line up perfectly, hopefully that doesn't add confusion
 
